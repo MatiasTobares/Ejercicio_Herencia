@@ -1,0 +1,11 @@
+C:\Users\Roberto\Desktop\LAB\LAB\bin\Debug\LAB.exe.config
+C:\Users\Roberto\Desktop\LAB\LAB\bin\Debug\LAB.exe
+C:\Users\Roberto\Desktop\LAB\LAB\bin\Debug\LAB.pdb
+C:\Users\Roberto\Desktop\LAB\LAB\obj\Debug\LAB.csprojResolveAssemblyReference.cache
+C:\Users\Roberto\Desktop\LAB\LAB\obj\Debug\LAB.FormPiso.resources
+C:\Users\Roberto\Desktop\LAB\LAB\obj\Debug\LAB.FormPrincipal.resources
+C:\Users\Roberto\Desktop\LAB\LAB\obj\Debug\LAB.Properties.Resources.resources
+C:\Users\Roberto\Desktop\LAB\LAB\obj\Debug\LAB.csproj.GenerateResource.Cache
+C:\Users\Roberto\Desktop\LAB\LAB\obj\Debug\LAB.exe
+C:\Users\Roberto\Desktop\LAB\LAB\obj\Debug\LAB.pdb
+C:\Users\Roberto\Desktop\LAB\LAB\obj\Debug\LAB.FormLOCAL.resources
